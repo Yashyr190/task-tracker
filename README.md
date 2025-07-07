@@ -39,8 +39,7 @@ Visit
 http://localhost:3000
 
 --🧰 Technologies Used
-React.js (with functional components & hooks)<img width="1470" alt="Screenshot 2025-07-07 at 8 07 24 PM" src="https://github.com/user-attachments/assets/e7914add-9ddb-4dc2-9679-bd74808c628e" />
-
+React.js (with functional components & hooks)
 
 CSS (for styled-components)
 
@@ -50,4 +49,7 @@ LocalStorage (for task persistence)
 👉 https://task-tracker-beta-seven.vercel.app
 
 --Screenshots
+<img width="1470" alt="logintt" src="https://github.com/user-attachments/assets/1ca8d961-7bf3-45b3-803f-99c4ebface1e" />
+<img width="1470" alt="dashb<img width="1470" alt="addtasktt" src="https://github.com/user-attachments/assets/8f6824c1-1017-4416-99e0-019e67bfd67a" />
+oardtt" src="https://github.com/user-attachments/assets/216a7413-949c-4363-b06d-e2f1064a4913" />
 
