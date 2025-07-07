@@ -50,6 +50,6 @@ LocalStorage (for task persistence)
 
 --Screenshots
 <img width="1470" alt="logintt" src="https://github.com/user-attachments/assets/1ca8d961-7bf3-45b3-803f-99c4ebface1e" />
-<img width="1470" alt="dashb<img width="1470" alt="addtasktt" src="https://github.com/user-attachments/assets/8f6824c1-1017-4416-99e0-019e67bfd67a" />
-oardtt" src="https://github.com/user-attachments/assets/216a7413-949c-4363-b06d-e2f1064a4913" />
+<img width="1470" alt="addtasktt" src="https://github.com/user-attachments/assets/8f6824c1-1017-4416-99e0-019e67bfd67a" />
+<img width="1470" alt="dashboardtt" src="https://github.com/user-attachments/assets/2906bb56-99ca-4f17-b2a7-66a3a5d9e707" />
 
